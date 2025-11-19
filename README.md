@@ -8,4 +8,4 @@
 # TODO list
 * Upload CLG codes
 * check that "double-folder" problem
-* explain to potential GitHub viewers some of the versions of the C++ header files 
+* explain to viewers some of the versions of the C++ header files 
